@@ -1,0 +1,22 @@
+body {
+  background-image: url("covid.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+h3 {
+  color: rgba(51, 24, 24, 0.753);
+  font-family: verdana;
+  font-size: 20px;
+}
+button
+{
+    background-color: rgb(17, 17, 41);
+    color:rgba(187, 238, 241, 0.753);
+    border-radius: 30px;
+    padding: 20px 50px;
+}
